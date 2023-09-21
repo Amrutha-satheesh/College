@@ -1,0 +1,23 @@
+.contact_img img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.div3{
+    position: absolute;
+    color:black;
+    left:560px;
+    top: 240px;
+    font-size:30px;
+}
+.div2{
+    display: flex;
+    
+}
+.div4{
+    margin-left: 90px;
+}
+.div4 p{
+    margin-left: 40px;
+    margin-top: 0px;
+}

@@ -1,0 +1,24 @@
+.contact_img img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.div3{
+    position: absolute;
+    color:white;
+    left:500px;
+    top: 40px;
+    font-size:30px;
+}
+.div4{
+    display: flex;
+    margin-left: 20px;
+}
+.div5{
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.div6 svg{
+    margin-top: 19px;
+    color: yellow;
+}

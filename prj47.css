@@ -1,0 +1,52 @@
+.contact_img img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.div3{
+    position: absolute;
+    color:white;
+    left:400px;
+    top: 40px;
+    font-size:30px;
+}
+.d{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+}
+.i{
+    margin-left: 30px;
+    height: 500px;
+    width: 500px;
+    border: 4px solid blue;
+}
+.a{
+    height: 400px;
+    width: 700px;
+    margin-left: 30px;
+}
+.h{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 40px;
+    color: brown;
+}
+.p1{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.div4{
+    display: flex;
+    margin-left: 20px;
+}
+.div5{
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.div6 svg{
+    margin-top: 19px;
+    color: red;
+}
